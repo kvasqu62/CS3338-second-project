@@ -1,0 +1,79 @@
+commit 49f22db306db11b966bd5c4e71b9a4f8446a7c15
+Merge: f3cd9e2 7608816
+Author: kvasqu62 <kvasqu62@calstatela.edu>
+Date:   Mon Feb 2 22:37:30 2026 -0800
+
+    Merge branch 'main' of https://github.com/kvasqu62/CS3338-second-project
+
+commit 76088166a9b4a4988df057b2e0a67c2fbe064e7c
+Author: kvasqu62 <kvasqu62@calstatela.edu>
+Date:   Mon Feb 2 22:07:49 2026 -0800
+
+    Update index.html
+
+commit 1c28ce16cfdc906cfceb15c902ef66e56aef9282
+Merge: 3d35e68 2c97765
+Author: kvasqu62 <kvasqu62@calstatela.edu>
+Date:   Mon Feb 2 21:56:16 2026 -0800
+
+    Merge pull request #2 from kvasqu62/index-fix
+    
+    Update index.html
+
+commit 2c97765defa18bf0a16d606b6b2bedb17b4c6b1b
+Author: kvasqu62 <kvasqu62@calstatela.edu>
+Date:   Mon Feb 2 21:34:34 2026 -0800
+
+    Update index.html
+
+commit 3d35e68e78f8c6a2627b657dc774a7437e2b9151
+Author: kvasqu62 <kvasqu62@calstatela.edu>
+Date:   Mon Feb 2 21:28:23 2026 -0800
+
+    Update index.html
+
+commit f3cd9e262d25f90c8ecc7279f1f4c8553ee53983
+Author: kvasqu62 <kvasqu62@calstatela.edu>
+Date:   Mon Feb 2 21:22:18 2026 -0800
+
+    Commit my README
+
+commit e9e64d2dcfc61a42ff8f7fe5d5d9a4aed9d96f8c
+Merge: b49d7d4 552f319
+Author: kvasqu62 <kvasqu62@calstatela.edu>
+Date:   Mon Feb 2 21:13:28 2026 -0800
+
+    Merge pull request #1 from kvasqu62/info-fill
+    
+    Update index.html
+
+commit 552f319d3e5d54b38c1fa94a71c69bd0db31f11d
+Merge: 394aab6 b49d7d4
+Author: kvasqu62 <kvasqu62@calstatela.edu>
+Date:   Mon Feb 2 21:12:54 2026 -0800
+
+    Merge branch 'main' into info-fill
+
+commit b49d7d4b8914b69df2b04f8c6037c7e904edeb2b
+Author: kvasqu62 <kvasqu62@calstatela.edu>
+Date:   Mon Feb 2 20:53:27 2026 -0800
+
+    Update index.html
+
+commit 394aab62a55b15ff2d24e5bed2133683b15da563
+Author: kvasqu62 <kvasqu62@calstatela.edu>
+Date:   Mon Feb 2 20:40:31 2026 -0800
+
+    Update index.html
+
+commit cc100e9bb45de0da6990689f2597c9ce74eae005
+Author: kvasqu62 <kvasqu62@calstatela.edu>
+Date:   Mon Feb 2 20:06:18 2026 -0800
+
+    Update index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
